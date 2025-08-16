@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repo\\PanhaSeth_Win_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13ADE026-E899-4438-8578-8AB4BA8FFA19}|Win_App_Framework\\Win_App_Framework.csproj|c:\\repo\\panhaseth_win_app\\win_app_framework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13ADE026-E899-4438-8578-8AB4BA8FFA19}|Win_App_Framework\\Win_App_Framework.csproj|solutionrelative:win_app_framework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{651F2195-3B1A-4AB8-A6DF-DB3E353538AA}|Win_App_Core\\Win_App_Core.csproj|C:\\Repo\\PanhaSeth_Win_App\\win_app_core\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{651F2195-3B1A-4AB8-A6DF-DB3E353538AA}|Win_App_Core\\Win_App_Core.csproj|solutionrelative:win_app_core\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0D2440-98F7-4E28-9EFE-44F392198B97}|Console_App_Framework\\Console_App_Framework.csproj|C:\\Repo\\PanhaSeth_Win_App\\console_app_framework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0D2440-98F7-4E28-9EFE-44F392198B97}|Console_App_Framework\\Console_App_Framework.csproj|solutionrelative:console_app_framework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7571E8-45C9-4326-A41C-A68923430CB0}|Console_App_Core\\Console_App_Core.csproj|c:\\repo\\panhaseth_win_app\\console_app_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7571E8-45C9-4326-A41C-A68923430CB0}|Console_App_Core\\Console_App_Core.csproj|solutionrelative:console_app_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Repo\\PanhaSeth_Win_App\\Win_App_Framework\\Form1.cs",
+              "RelativeDocumentMoniker": "Win_App_Framework\\Form1.cs",
+              "ToolTip": "C:\\Repo\\PanhaSeth_Win_App\\Win_App_Framework\\Form1.cs [Design]",
+              "RelativeToolTip": "Win_App_Framework\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T02:25:06.803Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Repo\\PanhaSeth_Win_App\\Win_App_Core\\Form1.cs",
+              "RelativeDocumentMoniker": "Win_App_Core\\Form1.cs",
+              "ToolTip": "C:\\Repo\\PanhaSeth_Win_App\\Win_App_Core\\Form1.cs [Design]",
+              "RelativeToolTip": "Win_App_Core\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T02:24:29.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repo\\PanhaSeth_Win_App\\Console_App_Framework\\Program.cs",
+              "RelativeDocumentMoniker": "Console_App_Framework\\Program.cs",
+              "ToolTip": "C:\\Repo\\PanhaSeth_Win_App\\Console_App_Framework\\Program.cs",
+              "RelativeToolTip": "Console_App_Framework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T02:23:48.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repo\\PanhaSeth_Win_App\\Console_App_Core\\Program.cs",
+              "RelativeDocumentMoniker": "Console_App_Core\\Program.cs",
+              "ToolTip": "C:\\Repo\\PanhaSeth_Win_App\\Console_App_Core\\Program.cs",
+              "RelativeToolTip": "Console_App_Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T02:22:54.686Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
