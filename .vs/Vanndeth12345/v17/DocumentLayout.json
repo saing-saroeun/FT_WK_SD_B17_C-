@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Console_App_Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB79DC0-C200-432B-B252-BF4994871FDD}|Win_App_Framework\\Win_App_Framework.csproj|c:\\users\\admin\\source\\repos\\console_app_core\\win_app_framework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AB79DC0-C200-432B-B252-BF4994871FDD}|Win_App_Framework\\Win_App_Framework.csproj|solutionrelative:win_app_framework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77AC7379-F703-44B8-9C37-880B8ED03CF1}|Win_App_Core\\Win_App_Core.csproj|c:\\users\\admin\\source\\repos\\console_app_core\\win_app_core\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77AC7379-F703-44B8-9C37-880B8ED03CF1}|Win_App_Core\\Win_App_Core.csproj|solutionrelative:win_app_core\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC11A837-416F-463B-9D8F-1AD2EA69D9F4}|Console_App_Framework\\Console_App_Framework.csproj|c:\\users\\admin\\source\\repos\\console_app_core\\console_app_framework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC11A837-416F-463B-9D8F-1AD2EA69D9F4}|Console_App_Framework\\Console_App_Framework.csproj|solutionrelative:console_app_framework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E083B2-9FC5-4B1F-885F-662B2FE53E84}|Console_App_Core\\Console_App_Core.vcxproj|C:\\Users\\Admin\\source\\repos\\Console_App_Core\\Console_App_Core\\Console_App_Core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03E083B2-9FC5-4B1F-885F-662B2FE53E84}|Console_App_Core\\Console_App_Core.vcxproj|solutionrelative:Console_App_Core\\Console_App_Core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Console_App_Core\\Win_App_Framework\\Form1.cs",
+              "RelativeDocumentMoniker": "Win_App_Framework\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Console_App_Core\\Win_App_Framework\\Form1.cs [Design]",
+              "RelativeToolTip": "Win_App_Framework\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:35:21.113Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Console_App_Core\\Win_App_Core\\Form1.cs",
+              "RelativeDocumentMoniker": "Win_App_Core\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Console_App_Core\\Win_App_Core\\Form1.cs [Design]",
+              "RelativeToolTip": "Win_App_Core\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:34:49.913Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Console_App_Core\\Console_App_Framework\\Program.cs",
+              "RelativeDocumentMoniker": "Console_App_Framework\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Console_App_Core\\Console_App_Framework\\Program.cs",
+              "RelativeToolTip": "Console_App_Framework\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T10:34:22.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Console_App_Core.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Console_App_Core\\Console_App_Core\\Console_App_Core.cpp",
+              "RelativeDocumentMoniker": "Console_App_Core\\Console_App_Core.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Console_App_Core\\Console_App_Core\\Console_App_Core.cpp",
+              "RelativeToolTip": "Console_App_Core\\Console_App_Core.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-16T10:33:33.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
