@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\0. GURU Saroeun\\1. IT Step Academy\\FT_SD_E19_C#\\1. Microsoft .NET Framework and C# Programing Lanugage (FT)\\Module_2\\Operator_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98E0A3B7-4F13-4BC4-B075-21C2994902F6}|Operator_App.csproj|d:\\0. guru saroeun\\1. it step academy\\ft_sd_e19_c#\\1. microsoft .net framework and c# programing lanugage (ft)\\module_2\\operator_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98E0A3B7-4F13-4BC4-B075-21C2994902F6}|Operator_App.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\0. GURU Saroeun\\1. IT Step Academy\\FT_SD_E19_C#\\1. Microsoft .NET Framework and C# Programing Lanugage (FT)\\Module_2\\Operator_App\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\0. GURU Saroeun\\1. IT Step Academy\\FT_SD_E19_C#\\1. Microsoft .NET Framework and C# Programing Lanugage (FT)\\Module_2\\Operator_App\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:11:42.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
