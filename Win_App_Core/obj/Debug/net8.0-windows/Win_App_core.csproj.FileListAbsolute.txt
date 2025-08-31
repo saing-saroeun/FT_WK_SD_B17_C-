@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Console_App\Win_App_core\bin\Debug\net8.0-windows\Win_App_core.exe
+C:\Users\Admin\source\repos\Console_App\Win_App_core\bin\Debug\net8.0-windows\Win_App_core.deps.json
+C:\Users\Admin\source\repos\Console_App\Win_App_core\bin\Debug\net8.0-windows\Win_App_core.runtimeconfig.json
+C:\Users\Admin\source\repos\Console_App\Win_App_core\bin\Debug\net8.0-windows\Win_App_core.dll
+C:\Users\Admin\source\repos\Console_App\Win_App_core\bin\Debug\net8.0-windows\Win_App_core.pdb
+C:\Users\Admin\source\repos\Console_App\Win_App_core\obj\Debug\net8.0-windows\Win_App_core.Form1.resources
+C:\Users\Admin\source\repos\Console_App\Win_App_core\obj\Debug\net8.0-windows\Win_App_core.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Console_App\Win_App_core\obj\Debug\net8.0-windows\Win_App_core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Console_App\Win_App_core\obj\Debug\net8.0-windows\Win_App_core.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Console_App\Win_App_core\obj\Debug\net8.0-windows\Win_App_core.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Console_App\Win_App_core\obj\Debug\net8.0-windows\Win_App_core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Console_App\Win_App_core\obj\Debug\net8.0-windows\Win_App_core.dll
+C:\Users\Admin\source\repos\Console_App\Win_App_core\obj\Debug\net8.0-windows\refint\Win_App_core.dll
+C:\Users\Admin\source\repos\Console_App\Win_App_core\obj\Debug\net8.0-windows\Win_App_core.pdb
+C:\Users\Admin\source\repos\Console_App\Win_App_core\obj\Debug\net8.0-windows\Win_App_core.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Console_App\Win_App_core\obj\Debug\net8.0-windows\ref\Win_App_core.dll
