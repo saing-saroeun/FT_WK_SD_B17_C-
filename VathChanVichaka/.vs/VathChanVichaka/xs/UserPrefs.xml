@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{5429F987-A3C7-43A3-B148-C6467676DFED}|Default">
-  <MonoDevelop.Ide.ItemProperties.VathChanVichaka FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmptyClass.cs">
     <Files>
       <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="EmptyClass.cs" Line="90" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="VathChanVichaka" expanded="True">
             <Node name="VathChanVichaka" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="EmptyClass.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -19,7 +19,8 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.VathChanVichaka PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
 </Properties>
