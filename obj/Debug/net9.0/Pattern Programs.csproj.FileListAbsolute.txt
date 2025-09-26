@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Desktop\All Khmer Unicode Fonts\YourName_Module2_Practices\FT_WK_SD_B17_C-\Pattern Programs\bin\Debug\net9.0\Pattern Programs.exe
+C:\Users\Admin\OneDrive\Desktop\All Khmer Unicode Fonts\YourName_Module2_Practices\FT_WK_SD_B17_C-\Pattern Programs\bin\Debug\net9.0\Pattern Programs.deps.json
+C:\Users\Admin\OneDrive\Desktop\All Khmer Unicode Fonts\YourName_Module2_Practices\FT_WK_SD_B17_C-\Pattern Programs\bin\Debug\net9.0\Pattern Programs.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\All Khmer Unicode Fonts\YourName_Module2_Practices\FT_WK_SD_B17_C-\Pattern Programs\bin\Debug\net9.0\Pattern Programs.dll
+C:\Users\Admin\OneDrive\Desktop\All Khmer Unicode Fonts\YourName_Module2_Practices\FT_WK_SD_B17_C-\Pattern Programs\bin\Debug\net9.0\Pattern Programs.pdb
+C:\Users\Admin\OneDrive\Desktop\All Khmer Unicode Fonts\YourName_Module2_Practices\FT_WK_SD_B17_C-\Pattern Programs\obj\Debug\net9.0\Pattern Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\All Khmer Unicode Fonts\YourName_Module2_Practices\FT_WK_SD_B17_C-\Pattern Programs\obj\Debug\net9.0\Pattern Programs.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\All Khmer Unicode Fonts\YourName_Module2_Practices\FT_WK_SD_B17_C-\Pattern Programs\obj\Debug\net9.0\Pattern Programs.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\All Khmer Unicode Fonts\YourName_Module2_Practices\FT_WK_SD_B17_C-\Pattern Programs\obj\Debug\net9.0\Pattern Programs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\All Khmer Unicode Fonts\YourName_Module2_Practices\FT_WK_SD_B17_C-\Pattern Programs\obj\Debug\net9.0\Pattern Programs.sourcelink.json
+C:\Users\Admin\OneDrive\Desktop\All Khmer Unicode Fonts\YourName_Module2_Practices\FT_WK_SD_B17_C-\Pattern Programs\obj\Debug\net9.0\Pattern Programs.dll
+C:\Users\Admin\OneDrive\Desktop\All Khmer Unicode Fonts\YourName_Module2_Practices\FT_WK_SD_B17_C-\Pattern Programs\obj\Debug\net9.0\refint\Pattern Programs.dll
+C:\Users\Admin\OneDrive\Desktop\All Khmer Unicode Fonts\YourName_Module2_Practices\FT_WK_SD_B17_C-\Pattern Programs\obj\Debug\net9.0\Pattern Programs.pdb
+C:\Users\Admin\OneDrive\Desktop\All Khmer Unicode Fonts\YourName_Module2_Practices\FT_WK_SD_B17_C-\Pattern Programs\obj\Debug\net9.0\Pattern Programs.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\All Khmer Unicode Fonts\YourName_Module2_Practices\FT_WK_SD_B17_C-\Pattern Programs\obj\Debug\net9.0\ref\Pattern Programs.dll

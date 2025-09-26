@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Win_App_core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9975fd213af62faa7bcfb5ee0e7b2dece0102c40")]
 [assembly: System.Reflection.AssemblyProductAttribute("Win_App_core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Win_App_core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

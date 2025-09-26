@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\Console_App\\Console_App\\Console_App_Core.csproj": {}
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\Homework_02\\FT_WK_SD_B17_C-\\Console_App\\Console_App_Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\Console_App\\Console_App\\Console_App_Core.csproj": {
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\Homework_02\\FT_WK_SD_B17_C-\\Console_App\\Console_App_Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\Console_App\\Console_App\\Console_App_Core.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\Homework_02\\FT_WK_SD_B17_C-\\Console_App\\Console_App_Core.csproj",
         "projectName": "Console_App_Core",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\Console_App\\Console_App\\Console_App_Core.csproj",
+        "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\Homework_02\\FT_WK_SD_B17_C-\\Console_App\\Console_App_Core.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\Console_App\\Console_App\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\Homework_02\\FT_WK_SD_B17_C-\\Console_App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
